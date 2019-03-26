@@ -2,32 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hdb2.org</title>
-    <link>http://hdb2.org/~josh/</link>
+    <link>https://hdb2.org/</link>
     <description>Recent content on hdb2.org</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 25 Mar 2019 20:53:20 -0500</lastBuildDate>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 25 Mar 2019 21:26:45 -0500</lastBuildDate>
     
-	<atom:link href="http://hdb2.org/~josh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hdb2.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://hdb2.org/~josh/posts/hello-world/</link>
-      <pubDate>Mon, 25 Mar 2019 20:53:20 -0500</pubDate>
-      
-      <guid>http://hdb2.org/~josh/posts/hello-world/</guid>
-      <description>Hello, world!</description>
-    </item>
     
     <item>
       <title>About</title>
-      <link>http://hdb2.org/~josh/about/</link>
-      <pubDate>Mon, 25 Mar 2019 20:52:38 -0500</pubDate>
+      <link>https://hdb2.org/about/</link>
+      <pubDate>Mon, 25 Mar 2019 21:26:45 -0500</pubDate>
       
-      <guid>http://hdb2.org/~josh/about/</guid>
-      <description>Hi, I&amp;rsquo;m Josh.</description>
+      <guid>https://hdb2.org/about/</guid>
+      <description>Hi, I&amp;rsquo;m Josh. Contact me at joshlawrence [at] fastmail [dot] com.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://hdb2.org/posts/2019/03/hello-world/</link>
+      <pubDate>Mon, 25 Mar 2019 21:26:09 -0500</pubDate>
+      
+      <guid>https://hdb2.org/posts/2019/03/hello-world/</guid>
+      <description>Hello, world!</description>
     </item>
     
   </channel>

@@ -1,11 +1,7 @@
 ---
 title: "Hello World"
-date: 2019-03-25T20:53:20-05:00
+date: 2019-03-25T21:26:09-05:00
 draft: false
-toc: false
-images:
-tags: 
-  - untagged
 ---
 
 Hello, world!
