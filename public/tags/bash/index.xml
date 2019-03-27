@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on hdb2.org</title>
+    <link>https://hdb2.org/tags/bash/</link>
+    <description>Recent content in Bash on hdb2.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 20:31:02 -0500</lastBuildDate>
+    
+	<atom:link href="https://hdb2.org/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bash Aliases and Functions</title>
+      <link>https://hdb2.org/posts/2019/03/bash-aliases-and-functions/</link>
+      <pubDate>Tue, 26 Mar 2019 20:31:02 -0500</pubDate>
+      
+      <guid>https://hdb2.org/posts/2019/03/bash-aliases-and-functions/</guid>
+      <description>Using aliases and functions can make working on the command line more efficient and fun. There are no shortage of examples on the Internet; here are a few I&amp;rsquo;ve found to be useful.
+For more on the difference between an alias and a function, check out this thread on Stackexchange here.
+Writing with nano alias nano=&amp;quot;nano -m -u -W --tabsize=4 --fill=80 --autoindent --smooth&amp;quot;  While vim and emacs are great text editors, it&amp;rsquo;s not always easy to configure them for simple writing.</description>
+    </item>
+    
+  </channel>
+</rss>
